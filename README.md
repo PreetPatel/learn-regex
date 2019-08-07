@@ -3,31 +3,7 @@
     <a href="https://github.com/ziishaned/learn-regex">
         <img src="https://i.imgur.com/bYwl7Vf.png" alt="Learn Regex">
     </a>
-    <br /><br />
-    <p>
-        <a href="https://twitter.com/ziishaned">
-            <img src="https://img.shields.io/twitter/follow/ziishaned.svg?style=social" />
-        </a>
-        <a href="https://github.com/ziishaned">
-            <img src="https://img.shields.io/github/followers/ziishaned.svg?label=Follow%20%40ziishaned&style=social" />
-        </a>
-    </p>
 </p>
-
-## Translations:
-
-* [English](README.md)
-* [Español](translations/README-es.md)
-* [Français](translations/README-fr.md)
-* [Português do Brasil](translations/README-pt_BR.md)
-* [中文版](translations/README-cn.md)
-* [日本語](translations/README-ja.md)
-* [한국어](translations/README-ko.md)
-* [Turkish](translations/README-tr.md)
-* [Greek](translations/README-gr.md)
-* [Magyar](translations/README-hu.md)
-* [Polish](translations/README-pl.md)
-* [Русский](translations/README-ru.md)
 
 ## What is Regular Expression?
 
@@ -592,14 +568,3 @@ possible. we can use `?` to match in lazy way means as short as possible
 
 [Test the regular expression](https://regex101.com/r/AyAdgJ/2)
 
-
-## Contribution
-
-* Open pull request with improvements
-* Discuss ideas in issues
-* Spread the word
-* Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/ziishaned.svg?style=social&label=Follow%20%40ziishaned)](https://twitter.com/ziishaned)
-
-## License
-
-MIT &copy; [Zeeshan Ahmad](https://twitter.com/ziishaned)
